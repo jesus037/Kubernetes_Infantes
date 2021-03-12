@@ -4,7 +4,7 @@ Este proyecto consiste en estudiar la herramienta Kubernetes, que nos permite un
 
 ## Índice:
 
-1.-[Introducción](https://github.com/jesus037/Kubernetes_Infantes/blob/master/1.Introducción.md)
+1.-[Introducción](https://github.com/jesus037/Kubernetes_Infantes/blob/master/1. Introducción.md)
 
 
 ## Referencias:
